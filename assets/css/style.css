@@ -1,3 +1,13 @@
-body {
+header {
     background-color: blue;
+    text-align: center;
+    color: white;
+    display: block;
+    font-size: xx-large;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.fa, .fas {
+    font-size: xxx-large;
 }

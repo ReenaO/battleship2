@@ -11,3 +11,28 @@ header {
 .fa, .fas {
     font-size: xxx-large;
 }
+
+.grid {
+    width: 400px;
+    height: 400px;
+    }
+
+.user-grid { 
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+ .computer-grid { 
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+ }   
+
+ .display-grid { 
+    width: 400px;
+    height: 400px;
+    background-color: lightgreen;
+
+ }
+

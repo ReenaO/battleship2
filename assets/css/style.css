@@ -10,12 +10,7 @@ header {
 
 .fa, .fas {
     font-size: xxx-large;
-}
-
-.grid {
-    width: 400px;
-    height: 400px;
-    }
+} a
 
 .user-grid { 
     width: 400px;
@@ -33,6 +28,45 @@ header {
     width: 400px;
     height: 400px;
     background-color: lightgreen;
-
  }
 
+ .ship {
+     width: 40px;
+     height: 40px;
+    background-color: rgb(63, 62, 62);
+ }
+
+.carrier {
+    width: 200px;
+    height: 40px;
+    background-color: red; 
+    margin: 2px;
+}
+
+.battleship {
+    width: 160px;
+    height: 40px;
+    background-color: blueviolet;
+    margin: 2px;
+}
+
+.cruiser {
+    width: 120px;
+    height: 40px;
+    background-color: cornflowerblue; 
+    margin: 2px;
+}
+
+.submarine {
+    width: 120px;
+    height: 40px;
+    background-color: darkblue; 
+    margin: 2px;
+}
+
+.destroyer {
+    width: 80px;
+    height: 40px;
+    background-color: purple;
+    margin: 2px;
+}

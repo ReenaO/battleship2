@@ -15,56 +15,47 @@ header {
 .user-grid { 
     width: 400px;
     height: 400px;
-    background-color: aqua;
+    background-color: rgb(23, 241, 241);
+    display: grid;;
 }
 
- .computer-grid { 
+.computer-grid { 
     width: 400px;
     height: 400px;
     background-color: pink;
- }   
+    display: grid;
+    margin: 2px;
+ }  
 
- .display-grid { 
-    width: 400px;
-    height: 400px;
-    background-color: lightgreen;
- }
-
- .ship {
-     width: 40px;
-     height: 40px;
-    background-color: rgb(63, 62, 62);
- }
-
-.carrier {
+.carrier-box {
     width: 200px;
     height: 40px;
     background-color: red; 
     margin: 2px;
 }
 
-.battleship {
+.battleship-box {
     width: 160px;
     height: 40px;
     background-color: blueviolet;
     margin: 2px;
 }
 
-.cruiser {
+.cruiser-box {
     width: 120px;
     height: 40px;
     background-color: cornflowerblue; 
     margin: 2px;
 }
 
-.submarine {
+.submarine-box {
     width: 120px;
     height: 40px;
     background-color: darkblue; 
     margin: 2px;
 }
 
-.destroyer {
+.destroyer-box {
     width: 80px;
     height: 40px;
     background-color: purple;

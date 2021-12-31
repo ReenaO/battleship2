@@ -5,25 +5,39 @@ header {
     display: block;
     font-size: xx-large;
     font-family: 'Roboto Mono', monospace;
-
 }
 
 .fa, .fas {
     font-size: xxx-large;
-} a
+} 
+
+.btn {
+    height: 40px;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-blue { 
+    background-color: blue;
+    color: white;
+}
+
+.btn-orange {
+    background-color: orange;
+    color: white;
+}
 
 .user-grid { 
     width: 400px;
     height: 400px;
     background-color: rgb(23, 241, 241);
-    display: grid;;
 }
 
 .computer-grid { 
     width: 400px;
     height: 400px;
-    background-color: pink;
-    display: grid;
+    background-color: pink;  
     margin: 2px;
  }  
 

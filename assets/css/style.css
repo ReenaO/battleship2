@@ -44,7 +44,7 @@ header {
 .carrier-box {
     width: 200px;
     height: 40px;
-    background-color: red; 
+    background-color: lightblue; 
     margin: 2px;
 }
 
@@ -65,7 +65,7 @@ header {
 .submarine-box {
     width: 120px;
     height: 40px;
-    background-color: darkblue; 
+    background-color: rgb(66, 66, 182); 
     margin: 2px;
 }
 
@@ -75,3 +75,12 @@ header {
     background-color: purple;
     margin: 2px;
 }
+
+.hit {
+    background-color: red;
+}
+
+.miss {
+    background-color: green;
+}
+
